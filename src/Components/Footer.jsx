@@ -9,7 +9,7 @@ function Footer() {
 
   return (
     <footer>
-      <p id='name'> copyright { year } </p>
+      <p id="name"> copyright {year} </p>
     </footer>
   );
 }
